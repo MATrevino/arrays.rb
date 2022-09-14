@@ -20,4 +20,7 @@ cost_of_lunch.shift
 has_paid.unshift
 
 #Index positions: the first element in an array will have an index position of zero, not one.
-#For example, in the above array friends, joe has an index position of 1.
+#For example, in the above array friends, joe has an index position of 1, while jess is in position 0.
+
+#Another method example below shows that the code below calls for the count method on the friends array. This will count the number of elements in this array.
+friends.count
