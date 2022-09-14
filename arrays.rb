@@ -21,3 +21,6 @@ cost_of_lunch.shift
 #This code below calls the unshift method on the has_paid array. This will adds an element to the start of the array.
 
 has_paid.unshift
+
+#Index positions: the first element in an array will have an index position of zero, not one.
+#For example, in the above array friends, joe has an index position of 1.
