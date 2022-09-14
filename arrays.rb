@@ -6,6 +6,7 @@ cost_of_lunch = ['8.00', '10.50', '14.50', '0.00',]
 
 has_paid = ['true', 'false', 'true', 'false']
 
+
 #The code below calls the pop method on the friends array. This will remove the last element
 friends.pop
 
